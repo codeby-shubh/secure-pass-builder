@@ -1,0 +1,127 @@
+### Common JavaScript Functions Frequently Used in Web Development and IT Sector
+
+---
+
+#### 1. **DOM Manipulation**
+- `document.getElementById()`
+- `document.querySelector()`
+- `document.querySelectorAll()`
+- `document.createElement()`
+- `document.appendChild()`
+- `element.removeChild()`
+- `element.setAttribute()`
+- `element.getAttribute()`
+- `element.classList.add()` / `element.classList.remove()` / `element.classList.toggle()`
+
+---
+
+#### 2. **Event Handling**
+- `addEventListener()`
+- `removeEventListener()`
+- `preventDefault()`
+- `stopPropagation()`
+
+---
+
+#### 3. **Array Methods**
+- `map()`
+- `filter()`
+- `reduce()`
+- `forEach()`
+- `find()`
+- `some()`
+- `every()`
+- `sort()`
+- `slice()` / `splice()`
+
+---
+
+#### 4. **String Manipulation**
+- `String.prototype.includes()`
+- `String.prototype.replace()`
+- `String.prototype.split()`
+- `String.prototype.toLowerCase()` / `toUpperCase()`
+- `String.prototype.trim()`
+
+---
+
+#### 5. **Object Methods**
+- `Object.keys()`
+- `Object.values()`
+- `Object.entries()`
+- `Object.assign()`
+- `Object.freeze()`
+- `Object.seal()`
+
+---
+
+#### 6. **Fetch and API Handling**
+- `fetch()`
+- `then()`
+- `catch()`
+- `async` / `await`
+- `JSON.stringify()` / `JSON.parse()`
+
+---
+
+#### 7. **Math Operations**
+- `Math.random()`
+- `Math.floor()`
+- `Math.ceil()`
+- `Math.round()`
+- `Math.max()` / `Math.min()`
+
+---
+
+#### 8. **Time and Date**
+- `Date()`
+- `Date.now()`
+- `setTimeout()` / `setInterval()`
+- `clearTimeout()` / `clearInterval()`
+
+---
+
+#### 9. **Error Handling**
+- `try` / `catch` / `finally`
+- `console.error()`
+- `console.warn()`
+- `console.log()` (Debugging)
+
+---
+
+#### 10. **Browser APIs**
+- `localStorage.getItem()` / `localStorage.setItem()`
+- `sessionStorage.getItem()` / `sessionStorage.setItem()`
+- `navigator.geolocation.getCurrentPosition()`
+- `navigator.mediaDevices.getUserMedia()`
+
+---
+
+#### 11. **Promise Methods**
+- `Promise.all()`
+- `Promise.race()`
+- `Promise.resolve()`
+- `Promise.reject()`
+
+---
+
+#### 12. **Functional Programming Helpers**
+- `Function.prototype.bind()`
+- `Function.prototype.call()`
+- `Function.prototype.apply()`
+
+---
+
+#### 13. **Utilities**
+- `isNaN()`
+- `parseInt()` / `parseFloat()`
+- `typeof` / `instanceof`
+
+---
+
+#### 14. **Framework-Specific Utilities**
+If you're working with frameworks like React, Angular, or Vue.js:
+- React: `useState()`, `useEffect()`, `useContext()`, `useMemo()`
+- Angular: Lifecycle hooks like `ngOnInit()`, `ngOnChanges()`
+- Vue.js: `data()`, `methods()`, `computed()`
+
