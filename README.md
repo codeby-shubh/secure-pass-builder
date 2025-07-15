@@ -27,9 +27,6 @@ A secure password generator website that creates strong, customizable passwords.
 
 ![App Screenshot](assets/screenshot.png)
 
-> (Make sure to upload a screenshot named `screenshot.png` inside the `assets/` folder)
-
----
 
 ## 🛠️ How to Run Locally
 
